@@ -18,7 +18,7 @@
 
 <p style="font-size: 18px;">
     <i class="fas fa-book-reader" style="color: #28a745;"></i> 
-    Me encanta descubrir y aprender nuevas tecnologías. Actualmente, estoy perfeccionando mis habilidades en Git, Java, y desarrollo web.
+    Me encanta descubrir y aprender nuevas tecnologías. Actualmente, estoy perfeccionando mis habilidades en Dart(Flutter), Java, desarrollo web y en el desarrollo movil.
 </p>
 
 <p style="font-size: 18px;">
